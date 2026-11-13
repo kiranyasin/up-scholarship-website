@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="color-scheme" content="light dark" />
+<meta name="color-scheme" content="light" />
 <link rel="icon" type="image/png" sizes="512x512" href="/favicon.png" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -38,15 +38,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet" />
 <style>
 :root{
-  --bg:#f7f5ef; --surface:#ffffff; --surface2:#eef3ee; --ink:#17251e; --muted:#4c5b52;
+  --bg:#faf8f2; --surface:#ffffff; --surface2:#eef3ee; --ink:#17251e; --muted:#4c5b52;
   --line:#d8ddd2; --brand:#0b5d43; --brand-ink:#ffffff; --brand-soft:#e3efe6;
   --accent:#b96a00; --accent-soft:#fbeed3; --danger:#a52a1d; --danger-soft:#fbe7e2;
   --ok:#0b5d43; --radius:14px; --shadow:0 2px 10px rgba(23,37,30,.08);
-}
-@media (prefers-color-scheme: dark){
-  :root{ --bg:#101612; --surface:#1a211c; --surface2:#222b24; --ink:#eef2ec; --muted:#aebbb1;
-    --line:#334036; --brand:#3fae85; --brand-ink:#0c1712; --brand-soft:#1e3329;
-    --accent:#e8a34c; --accent-soft:#3a2c14; --danger:#f0937f; --danger-soft:#3c201a; --ok:#3fae85; --shadow:0 2px 10px rgba(0,0,0,.4); }
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -77,7 +72,7 @@ nav.main a:hover,nav.main a[aria-current="page"]{background:var(--brand-soft);co
 .alert .wrap{display:flex;gap:12px;align-items:flex-start;padding:12px 16px}
 .alert b{color:var(--danger)}
 .pill{display:inline-block;background:var(--danger);color:#fff;font-weight:700;font-size:.75rem;padding:3px 10px;border-radius:99px;white-space:nowrap;margin-top:2px}
-@media(prefers-color-scheme:dark){.pill{color:#1c0f0c}}
+
 /* hero */
 .hero{display:grid;grid-template-columns:1.05fr .95fr;gap:28px;align-items:center;padding:30px 0 8px}
 @media(max-width:820px){.hero{grid-template-columns:1fr}}
