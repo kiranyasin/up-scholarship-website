@@ -2,6 +2,8 @@ RewriteEngine On
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^(.*)$ https://upscholarshiphelp.in/$1 [L,R=301]
+RewriteRule ^blog/$ blog.html [L]
+RewriteRule ^blog/([a-z0-9-]+)/$ blog-$1.html [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/$1.html -f
