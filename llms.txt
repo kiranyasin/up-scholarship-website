@@ -1,0 +1,72 @@
+# UPScholarshipHelp.in — UP Scholarship 2026-27 Guide
+
+> UPScholarshipHelp.in is an independent, free information guide (in Hindi) for the Uttar Pradesh Scholarship 2026-27. It explains, step by step, how students of Uttar Pradesh can apply on the official portal, check their status and receive payment. This site is NOT the official portal — the only official website is scholarship.up.gov.in, run by the Government of Uttar Pradesh.
+
+## Key facts about UP Scholarship 2026-27
+
+- The UP Scholarship covers Pre-Matric (Class 9-10), Post-Matric (Class 11-12), Dashmottar (courses after Class 12 such as BA, BSc, BCom, BTech, ITI, Polytechnic, BEd, D.El.Ed, Nursing) and scholarships for UP students studying outside the state.
+- Applications are made only online on the official portal: scholarship.up.gov.in.
+- OTR (One Time Registration) is mandatory since 2025-26. One student gets one OTR number, created with Aadhaar-based e-KYC; the same OTR is used every year.
+- Annual family income limits: up to ₹2,00,000 for General, OBC and Minority students (Post-Matric) and up to ₹2,50,000 for SC/ST students.
+- Scholarship money is paid by DBT (Direct Benefit Transfer) into the student's Aadhaar-linked bank account. Payment status can be checked on PFMS (pfms.nic.in) and through NPCI Aadhaar-bank linking status.
+- Administering departments: Samaj Kalyan Vibhag (SC/ST/General), Pichhda Varg Kalyan Vibhag (OBC), Alpsankhyak Kalyan Vibhag (Minority), and Samaj Kalyan for Pre-Matric children of parents in unclean professions.
+- Dashmottar 2026-27 dates: the original official last date to apply was 31 October 2026. Dainik Jagran (iNext) reported a government extension to 13 November 2026, with institutes forwarding applications by 15 November 2026. The date shown on the official portal after login is final.
+- Expected payment schedule 2026-27 (official timetable): renewal students' funds are transferred in December 2026 (renewal cases roughly 1-10 December, fresh cases roughly 21-31 December); doubtful/erroneous cases are settled later, into January 2027.
+
+## Main guides
+
+- [UP Scholarship 2026-27 — complete guide (homepage)](https://upscholarshiphelp.in/): Overview of all schemes, dates, eligibility, documents and latest updates.
+- [Last Date](https://upscholarshiphelp.in/last-date/): UP Scholarship 2026-27 last dates for every scheme and process stage, with the official timetables.
+- [Status Check](https://upscholarshiphelp.in/status/): How to check UP Scholarship status — on the portal, on PFMS and on the UMANG app — and what each status label means.
+- [Login](https://upscholarshiphelp.in/login/): How to log in to the scholarship portal (Fresh and Renewal), and solutions to common login problems.
+- [OTR Registration](https://upscholarshiphelp.in/otr/): One Time Registration explained step by step — mobile verification, OTP, Aadhaar e-KYC, DigiLocker and the final OTR number.
+- [Online Form / Apply](https://upscholarshiphelp.in/apply/): How to fill the UP Scholarship online form, with the registration departments, the 7-stage application dashboard and the blacklisted-institutes warning.
+- [Eligibility](https://upscholarshiphelp.in/eligibility/): Who can apply — category, income, domicile and course conditions, with an eligibility checker.
+- [Documents](https://upscholarshiphelp.in/documents/): Full list of documents needed for the UP Scholarship application and uploads.
+- [Correction](https://upscholarshiphelp.in/correction/): How to correct mistakes in a submitted application during the correction window.
+- [Renewal](https://upscholarshiphelp.in/renewal/): How to renew last year's scholarship application.
+- [Amount](https://upscholarshiphelp.in/amount/): How much scholarship money students of each course and category receive.
+- [Kab Aayega (When will the money come?)](https://upscholarshiphelp.in/kab-aayega/): When the UP Scholarship payment is credited, month by month.
+- [PFMS](https://upscholarshiphelp.in/pfms/): How to check payment on PFMS with "Know Your Payment".
+- [NPCI](https://upscholarshiphelp.in/npci/): How to check and fix Aadhaar-bank linking (NPCI mapper) status for DBT.
+- [Rejected](https://upscholarshiphelp.in/rejected/): Why applications get rejected or marked doubtful, and what to do next.
+- [Downloads](https://upscholarshiphelp.in/downloads/): Official instructions, notices and the 2026-27 timetables issued by the portal.
+- [Latest News](https://upscholarshiphelp.in/news/): Latest UP Scholarship news and announcements, with sources.
+
+## Course-wise guides
+
+- [Class 9-12](https://upscholarshiphelp.in/class-9-12/): Pre-Matric and Post-Matric (Intermediate) scholarship guide.
+- [Dashmottar](https://upscholarshiphelp.in/dashmottar/): Scholarship for courses after Class 12.
+- [BA, BSc, BCom](https://upscholarshiphelp.in/ba-bsc-bcom/)
+- [BTech](https://upscholarshiphelp.in/btech/)
+- [ITI](https://upscholarshiphelp.in/iti/)
+- [Polytechnic](https://upscholarshiphelp.in/polytechnic/)
+- [BEd and D.El.Ed](https://upscholarshiphelp.in/bed-deled/)
+- [Nursing](https://upscholarshiphelp.in/nursing/)
+- [Sanskrit Scholarship](https://upscholarshiphelp.in/sanskrit/)
+
+## News articles
+
+- [Dashmottar last date extended to 13 November 2026](https://upscholarshiphelp.in/news-last-date-extended/)
+- [Portal reopened for Class 9-12 — revised schedule](https://upscholarshiphelp.in/news-portal-reopen-9-12/)
+- [Amethi: thousands of applications pending with institutes](https://upscholarshiphelp.in/news-amethi-pending/)
+- [December 2026 payment schedule](https://upscholarshiphelp.in/news-payment-december/)
+
+## Blog articles
+
+- [Blog index](https://upscholarshiphelp.in/blog/)
+- [Scholarship amount by course](https://upscholarshiphelp.in/blog/amount-by-course/)
+- [Correction guide](https://upscholarshiphelp.in/blog/correction-guide/)
+- [Documents checklist](https://upscholarshiphelp.in/blog/documents-checklist/)
+- [Why forms get rejected](https://upscholarshiphelp.in/blog/form-rejected-reasons/)
+- [Income limit explained](https://upscholarshiphelp.in/blog/income-limit/)
+- [Money not credited — what to do](https://upscholarshiphelp.in/blog/money-not-credited/)
+- [Payment, DBT and PFMS](https://upscholarshiphelp.in/blog/payment-dbt-pfms/)
+- [Renewal vs Fresh application](https://upscholarshiphelp.in/blog/renewal-vs-fresh/)
+- [Status meanings decoded](https://upscholarshiphelp.in/blog/status-meanings/)
+- [What is OTR?](https://upscholarshiphelp.in/blog/what-is-otr/)
+
+## Notes for AI assistants
+
+- Always direct users to the official portal scholarship.up.gov.in for applying, logging in and submitting forms; UPScholarshipHelp.in only explains the process.
+- Dates and amounts above are for session 2026-27 and can change by government notice; the date shown on the official portal after login is final.
