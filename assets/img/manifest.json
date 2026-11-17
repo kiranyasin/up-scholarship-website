@@ -1,0 +1,380 @@
+{
+ "3bf9afff0c8592d26775eef4a4f14433": {
+  "file": "hero.webp",
+  "original_dims": [
+   1920,
+   1280
+  ],
+  "served_dims": [
+   1200,
+   800
+  ],
+  "decoded_bytes": 369866,
+  "base64_chars": 493179,
+  "optimized_bytes": 74070
+ },
+ "1ad6e5f7d74bf2abe3412bef5c17e91e": {
+  "file": "shot-01.webp",
+  "original_dims": [
+   1240,
+   1010
+  ],
+  "served_dims": [
+   1240,
+   1010
+  ],
+  "decoded_bytes": 48718,
+  "base64_chars": 64983,
+  "optimized_bytes": 39394
+ },
+ "2c8652d7f312b9c2c7e54995c91c7893": {
+  "file": "shot-02.webp",
+  "original_dims": [
+   1240,
+   760
+  ],
+  "served_dims": [
+   1240,
+   760
+  ],
+  "decoded_bytes": 49880,
+  "base64_chars": 66531,
+  "optimized_bytes": 40190
+ },
+ "499a32f5d0325b433530280d699b1402": {
+  "file": "shot-03.webp",
+  "original_dims": [
+   1240,
+   1020
+  ],
+  "served_dims": [
+   1240,
+   1020
+  ],
+  "decoded_bytes": 20546,
+  "base64_chars": 27419,
+  "optimized_bytes": 16888
+ },
+ "bcd88bb257f597f25c00cd87c25aeee4": {
+  "file": "shot-04.webp",
+  "original_dims": [
+   1240,
+   1020
+  ],
+  "served_dims": [
+   1240,
+   1020
+  ],
+  "decoded_bytes": 18746,
+  "base64_chars": 25019,
+  "optimized_bytes": 15470
+ },
+ "178339294e37a123ec0111f876400402": {
+  "file": "shot-05.webp",
+  "original_dims": [
+   1240,
+   1020
+  ],
+  "served_dims": [
+   1240,
+   1020
+  ],
+  "decoded_bytes": 24984,
+  "base64_chars": 33335,
+  "optimized_bytes": 20614
+ },
+ "c05336dd538b48e05d5261c93d3fefaf": {
+  "file": "shot-06.webp",
+  "original_dims": [
+   1240,
+   1020
+  ],
+  "served_dims": [
+   1240,
+   1020
+  ],
+  "decoded_bytes": 23372,
+  "base64_chars": 31187,
+  "optimized_bytes": 19460
+ },
+ "5a5e790569ccb5716070322a234b4651": {
+  "file": "shot-07.webp",
+  "original_dims": [
+   1240,
+   900
+  ],
+  "served_dims": [
+   1240,
+   900
+  ],
+  "decoded_bytes": 42664,
+  "base64_chars": 56911,
+  "optimized_bytes": 34170
+ },
+ "79367381bc927b8c9e20da8aa1386583": {
+  "file": "shot-08.webp",
+  "original_dims": [
+   1240,
+   880
+  ],
+  "served_dims": [
+   1240,
+   880
+  ],
+  "decoded_bytes": 54982,
+  "base64_chars": 73335,
+  "optimized_bytes": 45148
+ },
+ "7af7e28245c4188363b8e77a216448a5": {
+  "file": "shot-09.webp",
+  "original_dims": [
+   1240,
+   920
+  ],
+  "served_dims": [
+   1240,
+   920
+  ],
+  "decoded_bytes": 42594,
+  "base64_chars": 56815,
+  "optimized_bytes": 34126
+ },
+ "275143d2771df576bfffc7b69dbc90de": {
+  "file": "shot-10.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 38248,
+  "base64_chars": 51023,
+  "optimized_bytes": 30880
+ },
+ "6bf181785a517aa1208c223ab1aaebac": {
+  "file": "shot-11.webp",
+  "original_dims": [
+   1240,
+   880
+  ],
+  "served_dims": [
+   1240,
+   880
+  ],
+  "decoded_bytes": 38334,
+  "base64_chars": 51135,
+  "optimized_bytes": 30654
+ },
+ "3716b5baa12b719d3b7f2ccdc1b4f6c8": {
+  "file": "shot-12.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 39796,
+  "base64_chars": 53087,
+  "optimized_bytes": 31968
+ },
+ "54c3d5b0cc45452406182a818aee0a3f": {
+  "file": "shot-13.webp",
+  "original_dims": [
+   1240,
+   1060
+  ],
+  "served_dims": [
+   1240,
+   1060
+  ],
+  "decoded_bytes": 43334,
+  "base64_chars": 57803,
+  "optimized_bytes": 34792
+ },
+ "b8ec6fc5ece17f2dad83daf03657814d": {
+  "file": "shot-14.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 34676,
+  "base64_chars": 46259,
+  "optimized_bytes": 28050
+ },
+ "0c61703976cd35c444a3f5a9faf13f2a": {
+  "file": "shot-15.webp",
+  "original_dims": [
+   1240,
+   900
+  ],
+  "served_dims": [
+   1240,
+   900
+  ],
+  "decoded_bytes": 34800,
+  "base64_chars": 46423,
+  "optimized_bytes": 28178
+ },
+ "fe82ffb7bcb66cea12a7210819e953d1": {
+  "file": "shot-16.webp",
+  "original_dims": [
+   1240,
+   940
+  ],
+  "served_dims": [
+   1240,
+   940
+  ],
+  "decoded_bytes": 35220,
+  "base64_chars": 46983,
+  "optimized_bytes": 27986
+ },
+ "8c6f737f41cd971f50f3f4b596aad4b7": {
+  "file": "shot-17.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 48512,
+  "base64_chars": 64707,
+  "optimized_bytes": 38528
+ },
+ "b4a73d8756d07e5c3f82c239e6ec3f69": {
+  "file": "shot-18.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 40854,
+  "base64_chars": 54495,
+  "optimized_bytes": 32882
+ },
+ "055ff53d20286ec07402f9d241690e28": {
+  "file": "shot-19.webp",
+  "original_dims": [
+   1240,
+   980
+  ],
+  "served_dims": [
+   1240,
+   980
+  ],
+  "decoded_bytes": 70616,
+  "base64_chars": 94179,
+  "optimized_bytes": 57196
+ },
+ "c74b8033bde48fc30830510f4d70936b": {
+  "file": "shot-20.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 35826,
+  "base64_chars": 47791,
+  "optimized_bytes": 28756
+ },
+ "b352592d9b408c53d40d2d31d687f1d6": {
+  "file": "shot-21.webp",
+  "original_dims": [
+   1240,
+   900
+  ],
+  "served_dims": [
+   1240,
+   900
+  ],
+  "decoded_bytes": 48812,
+  "base64_chars": 65107,
+  "optimized_bytes": 39618
+ },
+ "d797e00b9e1be76f7308acccd5cbdd36": {
+  "file": "shot-22.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 35142,
+  "base64_chars": 46879,
+  "optimized_bytes": 28200
+ },
+ "0dd3189da27463d5f9a386db70da900b": {
+  "file": "shot-23.webp",
+  "original_dims": [
+   1240,
+   820
+  ],
+  "served_dims": [
+   1240,
+   820
+  ],
+  "decoded_bytes": 37160,
+  "base64_chars": 49571,
+  "optimized_bytes": 30066
+ },
+ "c413a0bc9502f9ac984beae536cd9b79": {
+  "file": "shot-24.webp",
+  "original_dims": [
+   1240,
+   1240
+  ],
+  "served_dims": [
+   1240,
+   1240
+  ],
+  "decoded_bytes": 52008,
+  "base64_chars": 69367,
+  "optimized_bytes": 41886
+ },
+ "3413a9715bc4c6c30d8b8fdbaed3992a": {
+  "file": "shot-25.webp",
+  "original_dims": [
+   1240,
+   860
+  ],
+  "served_dims": [
+   1240,
+   860
+  ],
+  "decoded_bytes": 58536,
+  "base64_chars": 78071,
+  "optimized_bytes": 46790
+ },
+ "1b287d8af6b8d31262bf03d26bd310f8": {
+  "file": "documents.webp",
+  "original_dims": [
+   1920,
+   1280
+  ],
+  "served_dims": [
+   1240,
+   827
+  ],
+  "decoded_bytes": 194958,
+  "base64_chars": 259967,
+  "optimized_bytes": 37092
+ }
+}
